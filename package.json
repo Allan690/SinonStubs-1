@@ -1,0 +1,17 @@
+{
+  "name": "PhotoAlbum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2",
+    "sinon": "^8.0.2"
+  }
+}
