@@ -9,6 +9,7 @@ Install dependencies:
 ```
 
 Run the test:
+
 ```bash
 ~ yarn test
-``
+```
